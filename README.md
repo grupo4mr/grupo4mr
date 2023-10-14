@@ -9,5 +9,5 @@
 
 Os sistemas do Grupo4MR são mantidos pela ByteEvolution
 
-Visite o site oficial do Grupo4MR: [4mr.pt](http://4mr.pt/)
+Visite o site oficial do Grupo4MR: [4mr.pt](http://4mr.pt/)<br />
 Visite o site oficial do ByteEvolution: [byteevolutionsoftware.pt](http://byteevolutionsoftware.pt/)
